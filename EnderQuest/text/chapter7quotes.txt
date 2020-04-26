@@ -1,0 +1,63 @@
+1 107 Behold! The king's chamber!
+2 100 Wow, never thought I'd be here.
+3 101 So shiny.
+;
+7 107 Finally get to see my brother again.
+10 100 Getting emotional?
+12 107 Yes, I want to beat him up very much.
+;
+10 101 What will become of me after we release you?
+15 107 You'll be rejoined with me again.
+;
+5 100 From our history books Othim seems invincible.
+7 107 Oh, really?
+9 107 That's too much exaggeration if you ask me.
+11 107 Maybe he needed you people to believe that so no one will discover he's really weak.
+;
+3 107 I wonder if he's kept any aces up his sleeve...
+5 100 What was that?
+6 107 Nothing.
+;
+8 100 Where did I even come from?
+10 100 Will you ever tell me?
+15 107 You're just an abandoned orphan I picked up off the streets.
+18 107 Why you, though, is a problem I don't even know the answer to.
+20 107 Sometime it seems that darkness has a hive mind of its own.
+;
+5 100 And what is my name?
+8 107 I don't know, child.
+9 107 And I don't think I ever will know.
+10 107 But given all that you've done to reinstate me as king...
+11 107 I'm sure giving you a honorary name won't be too hard.
+;
+3 107 He's near.
+4 100 Othim?
+5 101 Grr...
+10 107 Be brave.
+11 107 Go on.
+;
+18 100 Why is it so quiet here?
+20 107 Hm. I guess he's expecting us.
+22 107 Cleared out the palace in case we decide to destroy everything in our path.
+25 107 How typical of him, to see me as a barbaric animal.
+;
+9 100 All that's left is to defeat Othim to get him and the others to undo their binding spell, right?
+11 107 Yes.
+15 100 And this is for the greater good?
+17 107 Of course.
+18 107 You will see very very soon.
+;
+23 123 Zarkolth!
+24 107 Hello, Othim.
+;
+1 123 Zarkolth, I know you're hiding in this poor soul's body.
+2 123 Come out and face me like a king!
+3 123 It's impossible for you to get through me.
+4 123 My light shines brighter than any of your minions, brother!
+5 107 Ignore him.
+6 107 Wear him down until he's too tired to attack.
+17 123 Perhaps you have too much room to run.
+35 123 Stop running away you coward!
+36 123 You're not fit to be king!
+44 107 He's tired, now's the chance!
+;

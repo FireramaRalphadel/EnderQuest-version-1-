@@ -1,0 +1,32 @@
+1 107 Wake up, my child.
+2 107 Go forth and spread darkness to this world.
+;
+7 100 Where am I?
+14 100 Who am I?
+;
+1 100 Why is the world so dark?
+;
+25 100 Am I doing the right thing?
+;
+12 100 My parents, are they looking for me?
+;
+1 107 I am your creator.
+2 107 Finish your mission and you shall be free.
+;
+7 100 That voice...
+15 100 ...is it...
+23 101 ...me?
+;
+10 100 Where am I going?
+;
+18 100 Am I in control of myself?
+;
+1 107 Child, let me put your porblems to rest.
+;
+;
+1 104 Halt! Young one, I sense great darkness residing in you.
+2 104 Have no fear, son of Othim, for I, Greenwald the Light Dragon, shall release you from your suffering!
+27 104 I can still sense some light in you.
+28 104 ...perhaps it takes one to defeat one...
+29 104 I should notify the others, for we shall meet again, son of Zarkloth!
+;

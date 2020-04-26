@@ -1,0 +1,113 @@
+1 123 Very well, you have bested me.
+2 107 Now release me.
+3 123 As you wish.
+4 123 True Seven! Assemble!
+9 124 At last, I'm free!
+10 123 Zarkolth! You will not step any farther!
+11 124 You don't understand what I'm capable of!
+12 124 Vessel! Come join me by my side!
+;
+1 124 Yes!
+2 124 Now with my most loyal servant with me...
+3 124 This world will PAY for what it has done to ME!!!
+4 124 HAHAHAHAHAHA!!!
+;
+1 124 Tsk. To think I had started to trust you.
+2 123 Give up, Zarkolth.
+3 123 We released you to defeat you once and for all.
+4 124 Then bring it on!
+5 124 No light can pierce my darkness!
+6 123 That's why we're counting on your own vessel to bring you down.
+7 124 I don't think so!
+8 123 Your wife was right when she said my manipulation tactic had a flaw.
+;
+0 124 He can't move on unless every grid is filled with darkness!
+1 124 So I'll just make this impossible.
+2 124 Without cannons!
+;
+;
+0 104 It's okay, little one, I'm here to help.
+1 118 Greenwald, NO!
+2 104 Win this fight for all of us, alright?
+;
+;
+0 124 Did you think it was going to be that easy?
+1 124 Let me teach you a lesson.
+2 124 Never depend on the help of others!
+3 108 Don't listen to him!
+4 108 Let us do what we can to help you!
+5 124 If you're helping him, then I just have to make this more impossible!
+;
+;
+0 124 Stop messing up my plans!
+1 124 You can't spread your darkness if you can't get there!
+2 111 I can help you with that.
+3 113 *SNAP*
+4 124 NO!!!
+;
+;
+0 124 What about this?
+1 118 Stay in the top-left corner and I'll deal with this.
+3 118 Zarkolth! My dragon friend sacrificed himself to destroy you, so I will finish his dying wish!
+4 123 Quick! While Zarkolth's busy with us, spread your darkness!
+;
+;
+0 124 Fine!
+1 124 If these object can't stop you, then I'll just make YOU immobile!
+2 121 I found a weak spot!
+;
+0 124 You fool!
+1 124 That shot did nothing!
+2 124 And now you'll all PAY for your insolence!
+;
+0 123 Zarkolth! Let the boy go and come fight us!
+1 124 Oh, I will.
+2 124 Once I take care of this threat HERE!
+4 124 Child! Come stand with me!
+5 124 What?
+6 122 Your darkness might be strong, but I can take a few hits.
+7 123 Mogolyda, don't be a hero!
+8 122 Use my powers to prepare for what's to come.
+9 122 I believe in you.
+;
+;
+0 122 This is it.
+1 122 Your next step has to be without me...
+2 120 Mother!
+3 122 Do me proud, son.
+;
+0 124 You'll never beat me!
+1 124 I AM the superior darkness!
+7 124 DIE!
+8 124 DIEEEEEEEE!!!!!!!
+;
+0 124 HAHAHA!
+1 124 Did you think your darkness could coompete against mine?
+2 124 You can't beat me even if you managed to bend all light to your will.
+3 124 Surrender now and I'll give you a swift death.
+4 123 Child, don't listen to him.
+5 123 He's weakened, you just need to absord more light.
+6 124 NOOOOO!!!
+;
+5 108 Finish him!
+10 111 Finish him.
+15 118 For Greenwald!
+20 120 For the Queen!
+25 123 For Centry!
+;
+0 126 Where... Where am I?
+1 123 Zarkolth! By the power given to me by the people of Centry, I'm executing you for the use of dark magic against our people!
+2 120 Father, wait!
+3 123 What is it?
+4 120 He's different.
+5 108 Your majesty, I think we drove the darkness away.
+6 123 Did we, now?
+7 123 Well, where's the child who helped us?
+8 111 I believe he perished along with the darkness.
+9 118 Sad such a pure soul had to be plagued by the likes of him.
+10 123 Get up, brother, this kingdom needs our guidance.
+11 123 And after all the damage you've caused, we've got a lot to rebuild.
+16 118 So we're just going to pretend...
+17 120 It's for the best.
+22 118 Greenwald...
+;

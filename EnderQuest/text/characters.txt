@@ -1,0 +1,175 @@
+*Player
+               
+       O       
+      /|\      
+       |       
+      / \      
+*Dark_Player
+ ###       ### 
+   ### O ###   
+      /|\      
+   ### | ###   
+ ###  / \  ### 
+*Light_Dragon_Head
+            /| 
+      ^^^^^/ |^
+ ^^^^^ <O>     
+<NNNNNN    ____
+<________///___
+*Light_Dragon_Rear
+ /VVVVV/       
+/    /         
+    ^^^^       
+   ____ ^^____ 
+_///__________\
+*Light_Dragon_Head_Flipped
+ |\            
+^| \^^^^^      
+     <O> ^^^^^ 
+___     NNNNNN>
+___\\\________>
+*Light_Dragon_Rear_Flipped
+       \VVVVV\ 
+         \    \
+       ^^^^    
+ ____^^ ____   
+/__________\\\_
+*Fireball
+       ^       
+     ^/ \^     
+   ^//   \\^   
+   \\\   ///   
+    \\\_///    
+*Question_Mark
+       _       
+      / \      
+        /      
+       /       
+       O       
+*Centry_Guard
+     |         
+     | O       
+     T/|(o)    
+       |       
+      / \      
+*Centry_Guard_Charging
+               
+               
+       O       
+  ---L/|(o)    
+      / \      
+*Centry_Guard_Releasing
+     |         
+     T O       
+      \|(o)    
+       |       
+      / \      
+*Kevin_the_Magician
+               
+       O       
+      / \      
+     /|_|\     
+      | |      
+*Kevin_the_Magician_Hand_Raised
+               
+       O       
+      / \/     
+     /|_|      
+      | |      
+*Kevin_the_Magician_Snapping
+        *snap* 
+       O  p    
+      / \/     
+     /|_|      
+      | |      
+*Light_Beam_Horizontal
+               
+               
+v^v^v^v^v^v^v^v
+               
+               
+*Light_Beam_Vertical
+       >       
+       <       
+       >       
+       <       
+       >       
+*Light_Beam_Slash
+            ^v^
+         v^v   
+      ^v^      
+   v^v         
+^v^            
+*Light_Beam_Backslash
+^v^            
+   v^v         
+      ^v^      
+         v^v   
+            ^v^
+*Grimel_the_Electrician
+      ^^^      
+     ^ O ^     
+v^v^v^/|\^v^v^v
+    v < > v    
+     vvvvv     
+*Darkness
+###############
+###############
+###############
+###############
+###############
+*Prince_Harriot
+               
+      ( )      
+     /| |\     
+     \ | /     
+      / \      
+*Prince_Harriot_Releasing
+   _ ________  
+  /#\\ ( ) / \ 
+ |###|\| |/_  |
+  \#/___|_/ \/ 
+       / \\_/  
+*Queen_Mogolyda
+       M       
+       O       
+     _/ \_     
+      / \      
+      | |      
+*King_Othim
+       M       
+      ( )      
+      / \      
+     /|_|\     
+      | |      
+*Dark_Master_Zarkolth
+       M       
+      (#)      
+      ###      
+     /###\     
+      | |      
+*Queen_Mogolyda_and_Player
+    M          
+    O     O    
+  _/ \_  /|\   
+   / \    |    
+   | |   / \   
+*King_Zarkolth
+       M       
+      ( )      
+      | |      
+     /|_|\     
+      | |      
+*THE
+ ###  # #  ### 
+  #   # #  #   
+  #   ###  ### 
+  #   # #  #   
+  #   # #  ### 
+*END
+ ### #   # ##  
+ #   ##  # # # 
+ ### # # # # # 
+ #   #  ## # # 
+ ### #   # ##  
+*End
