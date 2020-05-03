@@ -1,0 +1,103 @@
+*darkness
+ ###       ### 
+   ###   ###   
+      ###      
+   ###   ###   
+ ###       ### 
+*light
+               
+               
+               
+               
+               
+*bright light
+  ___________  
+  |         |  
+  |         |  
+  |         |  
+  |_________|  
+*ultimate light
+  ___________  
+  |  _____  |  
+  |  |   |  |  
+  |  |___|  |  
+  |_________|  
+*Teleporter
+               
+     ~~~~~     
+    ~~~~~~~    
+     ~~~~~     
+               
+*Up_Pusher
+               
+      /|\      
+     / | \     
+       |       
+       |       
+*Down_Pusher
+               
+       |       
+       |       
+     \ | /     
+      \|/      
+*Left_Pusher
+               
+    /          
+   /________   
+   \           
+    \          
+*Right_Pusher
+               
+          \    
+   ________\   
+           /   
+          /    
+*Up_Left_Pusher
+  ____         
+  |\           
+  | \          
+     \         
+      \        
+*Up_Right_Pusher
+         ____  
+           /|  
+          / |  
+         /     
+        /      
+*Down_Left_Pusher
+               
+      /        
+     /         
+  | /          
+  |/___        
+*Down_Right_Pusher
+               
+        \      
+         \     
+          \ |  
+        ___\|  
+*Light_Generator
+    _______    
+   /   _   \   
+  |   / \   |  
+  |   \_/   |  
+   \_______/   
+*Darkness_Cannon
+   _ ________  
+  /#\        \ 
+ |###|     _  |
+  \#/_____/ \/ 
+      \_/ \_/  
+*Countdown
+  ###########  
+  #         #  
+  #         #  
+  #         #  
+  ###########  
+*Question_Mark
+       _       
+      / \      
+        /      
+       /       
+       O       
+*End

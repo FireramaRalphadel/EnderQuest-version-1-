@@ -1,0 +1,86 @@
+1 107 Would you look at that, walls made of light.
+2 107 Looks like they tried to prepare after all.
+5 107 And they even used back-up generators!
+7 107 Sad that they couldn't bother to cover up the generator with another light of wall.
+10 107 Simply step on both generator to disable the wall.
+11 107 Then we should be able to pass by, no problem.
+;
+4 100 May I ask your name now?
+5 101 No, master shouldn't have to talk to you...
+8 107 Quiet servant, I make my own choices.
+9 101 Yes, master.
+10 107 My name is Zarkolth, former king of Centry.
+11 100 I thought you died on a horseride accident?
+12 107 Lies! How could I have died such a humiliating death.
+13 101 Yes! How could he!
+14 107 Shut up.
+15 101 Yes.
+;
+8 107 I feel comforted in your ability to resist against the light.
+10 107 Not every one of my vessels, or any other, for the matter, could stand up to it like you do.
+12 107 Perhaps, it's that spark of determi...
+13 107 No, I don't think that's the right phrase for the situation we're in.
+;
+3 100 So, former king Zar...
+4 101 King Zarkolth! He's not dead!
+5 100 Sorry, king Zarkolth, does your brother know you escaped death?
+7 107 Ha! That arrogant traitor!
+8 107 He was the one who did me in!
+10 100 I'm sorry, I don't understand.
+15 107 When you have the power to rule a country, many will try to take it away from you.
+17 107 Your brother killed you for the throne?
+20 107 He was always skeptical of what I was doing, but I never thought he would act on it.
+;
+18 101 Tired...
+20 100 Maybe we should rest.
+;
+4 101 Dragon!
+5 100 Where?
+6 107 Look up.
+10 100 Should I run?
+11 107 It's up to you.
+;
+8 101 I think it spotted you.
+10 100 Deep breath, I'll be fine.
+17 107 Here cometh, finish him.
+;
+1 104 Hello again, young messenger of darkness.
+2 101 Die!
+3 100 Shush!
+4 101 No!
+7 104 Quite peculiar, it seems that you are having an internal conflict.
+9 107 Don't let his talking get to you, my child.
+10 107 You will do great things for me.
+11 107 I trust in your judgement to get out of this alive.
+14 104 More than that, I sense Zarkolth, practitioner of the dark.
+19 104 How could you, such a fine young boy, be plagued by the likes of him?
+22 100 I...
+23 101 Hiss! No contact with the light!
+;
+10 104 If you wish to avoid pain, turn back now.
+15 104 Grimel and I will be waiting up ahead.
+20 104 Swift death awaits.
+;
+5 107 Well done, not a scratch on you.
+7 100 Thanks.
+9 101 Thanks to me.
+11 100 Who was this Grimel guy Greenwald spoke of?
+14 107 The electrician.
+15 107 He runs most of the projects in this lab.
+20 107 Smart beyond his years, it's a shame he decided to side with my brother.
+;
+2 107 There they are.
+3 101 There they are.
+4 100 There they are.
+30 107 Go do me proud, my child.
+31 107 See you on the other side.
+;
+1 104 So you have chosen death.
+2 118 Then I shall help you fulfill your wish.
+3 118 Observe my newest invention: Light Armor!
+25 118 Greenwald, it seems like I'm running out of power.
+26 104 Young one, you do not understand what you are doing.
+27 104 Zarkolth is the messenger of darkness and should not be released.
+28 104 But should you be so hellbent on doing so...
+29 104 We have other plans in place.
+;

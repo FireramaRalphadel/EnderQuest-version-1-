@@ -1,0 +1,63 @@
+1 107 Seems like Othim wasn't so pure himself afterall.
+3 100 What do you mean?
+7 107 I always though a part of why he sealed me up was cause I was gaining too much knowledge about darkness.
+10 107 And yet it seems he has built darkness cannons.
+;
+20 100 Why would king Othim create something from darkness if he was against it?
+22 107 To counter me, of course.
+24 107 The brighter the light, the darker the shadow.
+;
+4 107 At the end the only way he could think of to stop me was to become me.
+6 107 How poetic.
+;
+10 100 Greenwald mentioned they have plans to stop you.
+12 101 Stop US!
+15 107 Yes, stop us.
+20 107 I wouldn't be alarmed.
+24 107 Nothing they do now really matters anymore.
+;
+3 100 I'm tasked to defeat the true seven, then what?
+6 107 It seems you're misinformed.
+7 107 You're to release me from the mindscape they bound me to.
+9 107 Defeating them is merely a statement of your power.
+;
+7 100 What if they decide not to release you?
+8 100 I don't think I know how to do it myself.
+;
+3 107 I have gathered information from many other possessed vessels such as you.
+5 107 They plan to release me if you prove to be strong enough.
+10 100 But that doesn't make any sense.
+11 100 They could simply leave up locked up.
+12 107 That's where you're wrong, child.
+15 107 If I'm truly harmless locked up, who's controlling you?
+;
+2 100 You mean I'm not in control?
+3 101 I'm in control!
+5 107 You never were.
+8 107 You can try, but I'll never let you leave an area without spreading your gift first.
+;
+9 100 How come I can still talk to you then?
+10 100 Doesn't me talking to you means I'm somehow still in control?
+;
+6 107 Child, you are only talking because you are too young.
+9 107 Too pure a mind for my darkness to completely grasp.
+12 107 And yet it is you that they find indestructible.
+15 107 A mix of light and dark, and none can destroy.
+18 107 Be thankful, you are on my side.
+20 107 You shall be well compensated afterwards.
+;
+1 100 This training ground is really large.
+2 107 I used to practice swordfighting here with Othim.
+3 107 Naturally I beat him every time.
+5 100 How'd you get sealed up then?
+7 107 Seven against one can hardly be called even odds.
+;
+1 120 Stop! You are trespassing on the grounds of King Othim!
+2 120 Surrender now, or I, prince Harriot, shall end you right here and now!
+3 107 Prince Harriot, that's Othim's child.
+4 120 I won't let you get close to me!
+5 120 Suffer the wrath of my modified darkness cannons!
+20 120 I finally understand why father needed to prepare for your return, uncle.
+22 120 I'm sorry I've sullied the name of the fifth true knight, Wallace.
+23 120 I could never replace you.
+;

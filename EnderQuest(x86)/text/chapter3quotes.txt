@@ -1,0 +1,56 @@
+1 107 Some places are too bright to stay for long.
+2 107 Don't fight it and let it push you away.
+3 107 It will be darkened in the process.
+;
+1 107 Sometimes the light lets you do the impossible.
+2 107 But do not be wavered, my child, for darkness can swallow up any light.
+3 107 We are the true descendants of this kingdom!
+;
+10 101 Must... destroy... light...
+20 100 What?
+;
+5 107 Give in to the power within you, young one.
+10 107 Truely feel what it means to be a being of the dark.
+15 101 Yes...
+20 100 I don't thinkn so.
+25 107 You don't need to think, my boy, just do it.
+;
+3 107 You are a fluke, did you know that?
+5 107 Somehow your simple mind could not be controlled.
+;
+1 107 There are even stronger lights that banish you far away.
+2 107 Although sometimes it might work out in your favor.
+;
+6 100 Uh... What is this tremendous headache?
+8 101 Heh heh heh.
+10 107 Do not fight the dark, young one.
+12 107 Accept it, or be broken down in the most painful way possible.
+;
+1 100 I'd like to know where we're going.
+5 107 You might leak my plans to the True Seven if somehow you were defeated.
+9 107 But I've seen you fight.
+14 107 Very well.
+;
+2 107 You are breaking into the royal castle, where my dormant mind lays.
+3 107 And you are going to free me from my binds.
+5 100 How would I do that?
+6 107 By defeating the seven traitors who sealed me in, of course.
+7 107 They of all people should respect the result of fair combat.
+;
+3 100 How far away is the castle?
+5 107 Oh, I wouldn't worry about that.
+6 107 You'll get there soon enough.
+17 101 Tired...
+;
+1 107 Ah... Kevin.
+2 100 Kevin?
+3 107 The royal entertainer, that's who.
+4 100 And?
+5 107 One of the True Seven, but I wouldn't worry about him.
+6 107 He's weaker than the guard you fought.
+8 107 I honestly doubt he'll even put up a fight.
+32 107 Go in there and show no mercy.
+;
+10 111 Greenwald, it's now or never.
+12 111 I've stalled you for as long as I can. You may go.
+;

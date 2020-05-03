@@ -1,0 +1,49 @@
+11 100 Uh... the light... its so strong.
+12 100 Had I... fallen asleep?
+;
+5 100 I can't seem to remember anything.
+;
+1 100 Whao! This light... I can't even open my eyes!
+8 107 Hiss... Stay away from the light you fool!
+9 100 You can't make me.
+22 107 You can't keep relying on the light.
+29 107 Darkness is the true nature of this world!
+;
+23 100 It seems that the spirit's grasp is weaker around strong light.
+;
+1 107 No! Destroy this place! I command you!
+2 100 I don't want to agree with you.
+3 100 But the light is too bright.
+4 101 I'll finish it fast.
+;
+15 100 What is happening?
+;
+1 107 I can sense a strong light presence nearby.
+10 107 Stay on guard, my child.
+20 107 Defeat the menace and we'll be another step closer to reunion!
+;
+7 100 Excuse me, but who is the voice speaking in my head?
+10 107 Hush, for now. Hopefully someday you'll see what we're both working for.
+;
+3 100 What is it you aren't telling me?
+5 100 Is what I'm doing so wrong that you must do it through me?
+7 101 But you enjoy it, don't you?
+9 101 Now you have a sense of belonging, that's something you didn't have before.
+;
+19 100 Perhaps... perhaps I can just stop and go home.
+21 101 Perhaps. If you even remember where home is.
+22 107 You are home now, my child.
+23 107 And soon,  we will meet.
+;
+9 107 The presence... It is here.
+10 107 Be on guard.
+11 107 It will surely be a great shame to lose such a pure vessel.
+;
+1 108 You must be the dark child Greenwald spoke of.
+2 108 You will not go any farther.
+3 109 For I am Augustus the Centrian Guard.
+4 110 Let your sins wash away in my holy blessings!
+22 108 How is he not dead?
+27 108 Is my light really not stronger than the darkness?
+36 108 Perhaps this really is for the best.
+;

@@ -1,0 +1,70 @@
+1 101 I sense power.
+2 107 That would be me.
+4 107 We are getting closer.
+;
+5 100 It seems that they developed more than cannons to fend you off.
+7 107 Are these pseudo-darkness bothering you?
+8 107 They aren't pure, so the'll simply wither away.
+9 107 It's only a matter of time.
+;
+10 100 How many of the true seven are left?
+12 107 My brother, his wife and the Wallace, sworn protector of the royal family.
+14 107 Some sources said he's passed away.
+15 107 And from Harriot's mumble I would assume that to be true.
+18 107 So that leaves the self-presumed king and queen.
+;
+6 100 This' a nice palace.
+7 101 Yes!
+10 107 Yeah? We're going to rule this place together.
+;
+4 107 From now on you have to be more cautious.
+6 107 You're in the royal palace, where the light shine the strongest.
+10 100 I thought I was invulnerable to light.
+12 107 You might be special, but why take the chance?
+15 107 Besides, as much as I hate to admit it, my brother's light is several times stronger than normal.
+;
+3 100 If I free you, aren't the true seven just going to put you back?
+5 107 Nay.
+6 107 For the past twenty years I've prepared myself in the mindscape.
+7 107 Twenty years is hardly enough time for them to even imagine what I'm capable of now.
+;
+4 100 Should I be helping King Othim instead?
+5 101 Traitor!
+7 107 It's ok, shadow, let the boy's mind wonder.
+8 107 He'll eventually see the true seven as nothing but corrupted.
+;
+15 107 Would you like to hear my story?
+18 100 Sure.
+;
+5 107 Othim and I had a uneventful childhood.
+6 107 We were close, but became distant once father passed away and I took to the throne.
+8 107 He wanted the throne too, I could see it in his eyes.
+10 107 But it would go over too well with the kingdom if their new king was a murderer.
+;
+2 107 When I had free time, I studied dark magic.
+3 107 It's really not as evil as it sounds.
+4 107 And I was preparing against it not for it.
+5 107 I had a hunch my brother would take this as an excuse to cast me away.
+8 107 What a shame my royal subject believe his lies. 
+;
+2 107 But before the night they snuck in on me during my prayers...
+4 107 I had managed to learn the skill of hiding away inside the mind.
+7 107 Time pass the same there, yet I no longer had materialistic needs.
+10 107 I built on what I remembered during the twenty years in isolation.
+13 107 And a couple years ago I finally broke free.
+14 107 Meaning I can telepathically manipulate others.
+15 107 So here we are.
+16 101 Beautiful story.
+20 100 No wonder this was never taught in history class.
+21 100 Othim would be dethroned if anyone knew.
+24 107 Time to take back what's mine.
+25 107 Let's go meet the queen.
+;
+1 122 I may not be as strong as my husband or my son.
+2 122 But what I lack in power I make up for with patience.
+3 122 And I can exploit the flaw in your design, Zarkolth.
+4 122 Your vessel can't move on without contaminating every grid of space.
+5 122 So since I'm bright enough you can't touch me...
+6 122 If I just don't move from my position...
+7 122 I can hold you here indefinitely!
+;
